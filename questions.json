@@ -3,13 +3,13 @@
   "game" : {
     "question" : {
       "title" : "Question Title",
-      "type" : "Question Type",
+      "type" : "text",
       "mediaPath" : "Q Media Path",
       "duration" : "Duration",
       "answerTime" : 120.10
     },
     "gameId" : 1,
-    "gameCount" : 2,
+    "gameCount" : 1,
     "answers" : [
       {
           "id": 1,
