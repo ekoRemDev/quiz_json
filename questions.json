@@ -8,7 +8,7 @@
       "duration" : "Duration",
       "answerTime" : 2.0
     },
-    "gameId" : "",
+    "gameId" : 1,
     "gameCount" : 2
   }
 }
