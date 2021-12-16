@@ -6,7 +6,8 @@
       "type" : "text",
       "mediaPath" : "Q Media Path",
       "duration" : "Duration",
-      "answerTime" : 120.10
+      "answerTime" : 120.10,
+      "correctAnswerId" : 1
     },
     "gameId" : 1,
     "gameCount" : 1,
