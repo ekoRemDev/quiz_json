@@ -1,0 +1,13 @@
+{
+  "game" : {
+    "question" : {
+      "title" : "Question Title",
+      "type" : "Question Type",
+      "mediaPath" : "Q Media Path",
+      "duration" : "Duration",
+      "answerTime" : 2.0
+    },
+    "gameId" : "",
+    "gameCount" : 2,
+  }
+}
