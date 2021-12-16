@@ -6,7 +6,7 @@
       "type" : "Question Type",
       "mediaPath" : "Q Media Path",
       "duration" : "Duration",
-      "answerTime" : 2
+      "answerTime" : 120.10
     },
     "gameId" : 1,
     "gameCount" : 2
