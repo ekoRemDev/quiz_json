@@ -9,6 +9,26 @@
       "answerTime" : 120.10
     },
     "gameId" : 1,
-    "gameCount" : 2
+    "gameCount" : 2,
+    "answers" : [
+      {
+          "id": 1,
+          "mediaPath": "mediaPath",
+          "type": "type",
+          "text": "text",
+        },
+        {
+          "id": 2,
+          "mediaPath": "mediaPath",
+          "type": "type",
+          "text": "text",
+        },
+        {
+          "id": 3,
+          "mediaPath": "mediaPath",
+          "type": "type",
+          "text": "text",
+        }
+    ]
   }
 }
