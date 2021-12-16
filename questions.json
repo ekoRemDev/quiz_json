@@ -15,19 +15,19 @@
           "id": 1,
           "mediaPath": "mediaPath",
           "type": "type",
-          "text": "text",
+          "text": "text"
         },
         {
           "id": 2,
           "mediaPath": "mediaPath",
           "type": "type",
-          "text": "text",
+          "text": "text"
         },
         {
           "id": 3,
           "mediaPath": "mediaPath",
           "type": "type",
-          "text": "text",
+          "text": "text"
         }
     ]
   }
