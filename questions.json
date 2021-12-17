@@ -1,18 +1,19 @@
 {
   "code": 200,
-  "game" : {
-    "question" : {
-      "title" : "Question Title",
-      "type" : "text",
-      "mediaPath" : "Q Media Path",
-      "duration" : "Duration",
-      "answerTime" : 120.10,
-      "correctAnswerId" : 1
-    },
-    "gameId" : 1,
-    "gameCount" : 1,
-    "answers" : [
-      {
+  "games" : [
+    {
+      "question" : {
+        "title" : "Question Title 1 Text",
+        "type" : "text",
+        "mediaPath" : "Q Media Path 1",
+        "duration" : "Duration",
+        "answerTime" : 120.10,
+        "correctAnswerId" : 1
+      },
+      "gameId" : 1,
+      "gameCount" : 1,
+      "answers" : [
+        {
           "id": 1,
           "mediaPath": "mediaPath",
           "type": "type",
@@ -30,6 +31,103 @@
           "type": "type",
           "text": "text"
         }
-    ]
-  }
+      ]
+    },
+    {
+      "question" : {
+        "title" : "Question Title 2 Audio",
+        "type" : "audio",
+        "mediaPath" : "Q Media Path",
+        "duration" : "Duration",
+        "answerTime" : 120.10,
+        "correctAnswerId" : 1
+      },
+      "gameId" : 2,
+      "gameCount" : 1,
+      "answers" : [
+        {
+          "id": 1,
+          "mediaPath": "mediaPath",
+          "type": "type",
+          "text": "text"
+        },
+        {
+          "id": 2,
+          "mediaPath": "mediaPath",
+          "type": "type",
+          "text": "text"
+        },
+        {
+          "id": 3,
+          "mediaPath": "mediaPath",
+          "type": "type",
+          "text": "text"
+        }
+      ]
+    },
+    {
+      "question" : {
+        "title" : "Question Title 3 video",
+        "type" : "video",
+        "mediaPath" : "Q Media Path",
+        "duration" : "Duration",
+        "answerTime" : 120.10,
+        "correctAnswerId" : 1
+      },
+      "gameId" : 3,
+      "gameCount" : 1,
+      "answers" : [
+        {
+          "id": 1,
+          "mediaPath": "mediaPath",
+          "type": "type",
+          "text": "text"
+        },
+        {
+          "id": 2,
+          "mediaPath": "mediaPath",
+          "type": "type",
+          "text": "text"
+        },
+        {
+          "id": 3,
+          "mediaPath": "mediaPath",
+          "type": "type",
+          "text": "text"
+        }
+      ]
+    },
+    {
+      "question" : {
+        "title" : "Question Title 4 photo",
+        "type" : "photo",
+        "mediaPath" : "Q Media Path",
+        "duration" : "Duration",
+        "answerTime" : 120.10,
+        "correctAnswerId" : 1
+      },
+      "gameId" : 4,
+      "gameCount" : 1,
+      "answers" : [
+        {
+          "id": 1,
+          "mediaPath": "mediaPath",
+          "type": "type",
+          "text": "text"
+        },
+        {
+          "id": 2,
+          "mediaPath": "mediaPath",
+          "type": "type",
+          "text": "text"
+        },
+        {
+          "id": 3,
+          "mediaPath": "mediaPath",
+          "type": "type",
+          "text": "text"
+        }
+      ]
+    }
+  ]
 }
