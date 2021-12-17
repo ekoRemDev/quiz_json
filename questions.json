@@ -99,9 +99,41 @@
     },
     {
       "question" : {
-        "title" : "Question Title 4 photo",
+        "title" : "Where is this cottage?",
         "type" : "photo",
         "mediaPath" : "https://images.unsplash.com/photo-1639590717308-19c6b6aba283?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "duration" : "Duration",
+        "answerTime" : 120.10,
+        "correctAnswerId" : 1
+      },
+      "gameId" : 4,
+      "gameCount" : 1,
+      "answers" : [
+        {
+          "id": 1,
+          "mediaPath": "",
+          "type": "text",
+          "text": "Miami"
+        },
+        {
+          "id": 2,
+          "mediaPath": "",
+          "type": "text",
+          "text": "Tbilisi"
+        },
+        {
+          "id": 3,
+          "mediaPath": "mediaPath",
+          "type": "text",
+          "text": "Norway"
+        }
+      ]
+    },
+    {
+      "question" : {
+        "title" : "Question Title 5 photo",
+        "type" : "photo",
+        "mediaPath" : "https://images.unsplash.com/photo-1639581255054-e49a43e23344?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1166&q=80",
         "duration" : "Duration",
         "answerTime" : 120.10,
         "correctAnswerId" : 1
